@@ -1,4 +1,4 @@
-### Welcome, I'm pujan Dave 👋
+### Welcome, I'm Pujan Dave 👋
 
 - 🔭 I’m currently working on NLP and ML.
 - 🌱 I’m currently learning MBA(business development),API,Blockchain tech, Data Engineering.
