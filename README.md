@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on LLM, ML projects.
 - 🤔 I’m looking for help with Data Engineering
 - 📫 How to reach me: pujan.dave9@gmail.com     
-- @  Now you can visit me at www.pujandave.unaux.com
+- @  Now you can visit me at www.pujandave.me
 
 
 -->
